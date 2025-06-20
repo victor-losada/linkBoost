@@ -432,6 +432,10 @@ const LandingPage = () => {
                   <Check className="w-5 h-5 text-[#24E8A5]" />
                   <span className="text-[#C5C5C5]">Soporte técnico rápido</span>
                 </div>
+                <div className="flex items-center space-x-3">
+                  <Check className="w-5 h-5 text-[#24E8A5]" />
+                  <span className="text-[#C5C5C5]">Asistente inteligente (básico)</span>
+                </div>
               </div>
 
               <button className="w-full h-12 bg-gradient-to-r from-[#FF2E63] to-[#24E8A5] text-white rounded-xl hover:opacity-90 transition-all duration-300">
@@ -469,11 +473,15 @@ const LandingPage = () => {
                   <Check className="w-5 h-5 text-[#24E8A5]" />
                   <span className="text-[#C5C5C5]">Prioridad en lanzamientos de nuevas funciones</span>
                 </div>
+                <div className="flex items-center space-x-3">
+                  <Check className="w-5 h-5 text-[#24E8A5]" />
+                  <span className="text-[#C5C5C5]">Asistente completo con IA</span>
+                </div>
                
               </div>
 
               <button className="w-full h-12 bg-gradient-to-r from-[#FF2E63] to-[#24E8A5] text-white rounded-xl hover:opacity-90 transition-all duration-300">
-                Comenzar prueba gratis
+                Actualizar a plan creator
               </button>
             </div>
           </div>
